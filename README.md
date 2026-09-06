@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋 I'm Nguyen My San</h1>
 
-<h3 align="center">
-Master of Science in Business Analytics | University of the Pacific
-</h3>
+<hr>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=950&lines=DATA+%C2%B7+ANALYZE+%C2%B7+VISUALIZE+%C2%B7+DECIDE;Business+Analytics+%C2%B7+Data+Analytics+%C2%B7+Marketing+Analytics;Python+%C2%B7+SQL+%C2%B7+Tableau+%C2%B7+Power+BI;Turning+Data+Into+Actionable+Business+Insights"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=25&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=1000&lines=Master+of+Science+in+Business+Analytics;University+of+the+Pacific"
+    alt="Major and University"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=DATA+%E2%80%A2+ANALYZE+%E2%80%A2+VISUALIZE+%E2%80%A2+DECIDE"
+    alt="Data Analyze Visualize Decide"
+  />
+</p>
 ---
 
 ## ⚡ About Me
