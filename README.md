@@ -15,7 +15,7 @@
     alt="Data Analyze Visualize Decide"
   />
 </p>
----
+
 
 ## ⚡ About Me
 
