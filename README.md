@@ -54,7 +54,6 @@
 <p>
 <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=00FF88"/>
 </p>
 
 ### Tools
